@@ -24,8 +24,7 @@ Installed modules :
   <li>title validation, on create article and update</li>
 </ul>
 
-<br>
-
+<h2>Important</h2>
 - routes folder contains routing system.<br>
 - controller folder contains important functions of application.<br>
 - handlers folder contains database connection, helpers, and validation.<br>
